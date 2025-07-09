@@ -16,7 +16,7 @@ J'ai réalisé ce mini-projet dans le but de mobiliser mes compétences.
 
 ## 🔍 Aperçu du projet
 
-![aperçu fiche développeur](./screen-fiche-perso.png)  
+![aperçu fiche perso](./screen-fiche-perso.png)  
 
 ---
 
