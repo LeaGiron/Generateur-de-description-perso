@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Fiche Perso</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Générateur de fiche perso</h1>
+
+    <label> Prénom : <input type="text" id="prenom" /> </label><br>
+    <label> Âge : <input type="number" id="age" /> </label><br>
+    <label> Couleur préférée : <input type="text" id="couleur" /> </label><br>
+    <label> Passions : <input type="text" id="passions" /> </label><br>
+    <label> Qualités : <input type="text" id="qualites" /> </label><br>
+    <label> Défauts : <input type="text" id="defauts" /> </label><br>
+
+  <button onclick="genererFiche()"> Générer la fiche ! </button>
+
+  <div id="fiche-resultat"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
